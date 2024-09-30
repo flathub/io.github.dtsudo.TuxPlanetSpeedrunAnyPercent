@@ -40,8 +40,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/dtsudo/Tux-Planet-Speedrun-Any-Percent-Electron-Version.git
-        tag: v1.05
-        commit: e49f964c0c6ef9e960bb40f1b023ec22de569cd3
+        commit: dcf3d5803e78bd834c4eaafa573be259aa7bef15
         dest: main
       - generated-sources.json
       - type: script
